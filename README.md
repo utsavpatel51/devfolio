@@ -1,13 +1,5 @@
 # devfolio
-A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
-
-View the [demo here](https://mmacneil.github.io/devfolio/).
-
-### Desktop version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-desktop.gif" />
-
-### Responsive version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-responsive.gif" height="485" />
+This Templete is taken from <a href="https://github.com/mmacneil/devfolio">Here</a>.
 
 ## Setup
 
@@ -20,7 +12,3 @@ View the [demo here](https://mmacneil.github.io/devfolio/).
  <code>src\>npm run build</code></pre>
  4. Open `index.html` locally in your favorite browser.
  5. Modify accordingly - styles, colors and variables can be changed in `styles.scss`.  Refer to the Bulma docs for guidance on how to quickly customize further to suit your tastes using  [color helpers](https://bulma.io/documentation/modifiers/color-helpers/) and [variables](https://bulma.io/documentation/customize/variables/).  See the [Flickity](https://github.com/metafizzy/flickity) docs if you wish to modify the carousel.
- 
- ## Contact
- markmacneil@gmail.com
- 
